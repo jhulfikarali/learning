@@ -10,6 +10,6 @@
 
 ## GitHub - Cloning
 
-[Forking](https://github.com/jhulfikarali/learning/blob/master/Git_Cloning.md)
+[Cloning](https://github.com/jhulfikarali/learning/blob/master/Git_Cloning.md)
 
 I will keep adding stuff and need help from you on comments and feel free to create PR for updates.
