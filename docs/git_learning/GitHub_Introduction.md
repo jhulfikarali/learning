@@ -33,6 +33,8 @@ Please note that _fork_ is repository level and _feature_ is branch level as bot
 
 That's it for basics, please follow below link for how to do forking, cloning and feature construction.
 
-Cloning, Forking: 
+[Learning HomePage](https://github.com/jhulfikarali/learning)
 
-Home Page: https://github.com/jhulfikarali/learning
+[GitHub Forking](https://github.com/jhulfikarali/learning/blob/master/docs/git_learning/Git_Forking.md)
+
+[Cloning/Feature](https://github.com/jhulfikarali/learning/blob/master/docs/git_learning/Git_Cloning_Feature_Branching.md)
