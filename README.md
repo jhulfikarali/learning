@@ -1,15 +1,17 @@
 # General Learning
 
-## GitHub Introduction
+## GitHub
 
-[GitHub Introduction](https://github.com/jhulfikarali/learning/blob/master/GitHub_Introduction.md)
+### GitHub Introduction
 
-## GitHub - Forking
+[GitHub Introduction](https://github.com/jhulfikarali/learning/blob/master/docs/git_learning/GitHub_Introduction.md)
 
-[Forking](https://github.com/jhulfikarali/learning/blob/master/Git_Forking.md)
+### GitHub - Forking
 
-## GitHub - Cloning
+[Forking](https://github.com/jhulfikarali/learning/blob/master/docs/git_learning/Git_Forking.md)
 
-[Cloning](https://github.com/jhulfikarali/learning/blob/master/Git_Cloning.md)
+### GitHub - Cloning
+
+[Cloning](https://github.com/jhulfikarali/learning/blob/master/docs/git_learning/Git_Cloning_Feature_Branching.md)
 
 I will keep adding stuff and need help from you on comments and feel free to create PR for updates.
