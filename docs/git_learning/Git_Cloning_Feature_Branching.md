@@ -59,6 +59,6 @@ git push origin _new\_feature_
 
 12. Based on your project setup, above step might [create a PR](https://github.com/jhulfikarali/learning/blob/master/Git_PR.md) or merge the changes to upstream repository.
 
-And you are done!!!!
+And you are done for now!!!!
 
-HomePage: [Learning](https://github.com/jhulfikarali/learning)
+[Learning HomePage](https://github.com/jhulfikarali/learning)
